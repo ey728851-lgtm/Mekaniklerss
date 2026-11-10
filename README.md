@@ -1,0 +1,2 @@
+# Mekaniklerss
+berili oyun mekanikleri
